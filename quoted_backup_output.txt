@@ -1,0 +1,654 @@
+en-US
+utf-8
+dns-prefetch preconnect
+https://u.jimcdn.com/
+anonymous
+dns-prefetch preconnect
+https://assets.jimstatic.com/
+anonymous
+dns-prefetch preconnect
+https://image.jimcdn.com
+anonymous
+dns-prefetch preconnect
+https://fonts.jimstatic.com
+anonymous
+viewport
+width=device-width, initial-scale=1
+X-UA-Compatible
+IE=edge
+description
+
+robots
+index, follow, archive
+st:section
+
+generator
+Jimdo Creator
+twitter:title
+Alabamian
+twitter:description
+POTUS 47 -- Per the Supreme Court ruling, what is (he) POTUS 47 not doing, pursuing private aim or private action. Blog post link here - in progress.
+twitter:card
+summary_large_image
+og:url
+https://scottowen.jimdofree.com/
+og:title
+Alabamian
+og:description
+POTUS 47 -- Per the Supreme Court ruling, what is (he) POTUS 47 not doing, pursuing private aim or private action. Blog post link here - in progress.
+og:type
+website
+og:locale
+en_US
+og:site_name
+scottowen
+twitter:image
+https://image.jimcdn.com/app/cms/image/transf/none/path/sbedf239d306f2c67/backgroundarea/ie5e6fa22e9629e9b/version/1750162743/image.jpg
+og:image
+https://image.jimcdn.com/app/cms/image/transf/none/path/sbedf239d306f2c67/backgroundarea/ie5e6fa22e9629e9b/version/1750162743/image.jpg
+og:image:width
+2000
+og:image:height
+1500
+og:image:secure_url
+https://image.jimcdn.com/app/cms/image/transf/none/path/sbedf239d306f2c67/backgroundarea/ie5e6fa22e9629e9b/version/1750162743/image.jpg
+shortcut icon
+https://assets.jimstatic.com/s/img/favicon.ico
+alternate
+application/rss+xml
+Blog
+https://scottowen.jimdofree.com/rss/blog
+canonical
+https://scottowen.jimdofree.com/
+https://assets.jimstatic.com/ckies.js.709aa75a18f19bef610f.js
+https://assets.jimstatic.com/cookieControl.js.e50b9a6ff67392f24693.js
+https://u.jimcdn.com/cms/o/sbedf239d306f2c67/layout/dm_23213178b76b16e8a8e8890764bceb1f/css/layout.css?t=1526995287
+stylesheet
+text/css
+jimdo_layout_css
+link
+head
+stylesheet
+only x
+all
+isApplicationInstalled
+onloadcssdefined
+https://assets.jimstatic.com/web.css.816260a6340cec295176cad51e0fc775.css
+jimdo_web_css
+https://assets.jimstatic.com/web.css.816260a6340cec295176cad51e0fc775.css
+preload
+style
+https://assets.jimstatic.com/web.css.816260a6340cec295176cad51e0fc775.css
+stylesheet
+isTestserver
+isLcJimdoCom
+isJimdoHelpCenter
+isProtectedPage
+cstok
+
+cacheJsKey
+e9e1b0531076b8777812a9032a56e8582f89681f
+cacheCssKey
+e9e1b0531076b8777812a9032a56e8582f89681f
+cdnUrl
+https:\/\/assets.jimstatic.com\/
+minUrl
+https:\/\/assets.jimstatic.com\/app\/cdn\/min\/file\/
+authUrl
+https:\/\/a.jimdo.com\/
+webPath
+https:\/\/scottowen.jimdofree.com\/
+appUrl
+https:\/\/a.jimdo.com\/
+cmsLanguage
+en_US
+isFreePackage
+mobile
+isDevkitTemplateUsed
+isTemplateResponsive
+websiteId
+sbedf239d306f2c67
+pageId
+packageId
+shop
+deliveryTimeTexts
+1
+Ships within 1-3 days
+2
+Ships within 3-5 days
+3
+Delivery in 5-8 days
+checkoutButtonText
+Check out
+isReady
+currencyFormat
+pattern
+\u00a4#,##0.00
+convertedPattern
+$#,##0.00
+symbols
+GROUPING_SEPARATOR
+,
+DECIMAL_SEPARATOR
+.
+CURRENCY_SYMBOL
+$
+currencyLocale
+en_US
+tr
+gmap
+searchNotFound
+The entered address doesn
+t be found.
+routeNotFound
+The driving directions couldn
+},
+:{
+:{
+:
+,
+:
+},
+:
+,
+:
+,
+:
+,
+:{
+:
+,
+:
+,
+:
+},
+:
+,
+:
+,
+:
+},
+:{
+:
+s been an error on our end and your last change didn
+},
+:{
+:
+}},
+:
+,
+:false,
+:{
+:77270894,
+:
+,
+:{
+:true},
+:[{
+:8412538594,
+:
+}]},
+:null,
+:767,
+:480,
+:false,
+:false,
+:false,
+:false,
+:false,
+:false,
+:
+use strict
+https://assets.jimstatic.com/web.js.1c957c414f34ba6e48e2.js
+true
+https://assets.jimstatic.com/at.js.49bf148e78807d5bbf85.js
+keywords
+gay writer Alabama, LGBTQ blog South, freelance gay writer, Southern queer stories, Alabama LGBTQ voice, personal blog gay man, queer Southern perspective, LGBTQ life in Alabama, gay freelance author, LGBTQ creative writing, queer storytelling blog, gay Southern lifestyle, Southern gay experience, non-journalist gay blog, LGBTQ identity Alabama
+description
+A personal blog by a gay freelance writer in Alabama exploring queer life, Southern experiences, and LGBTQ storytelling.
+body cc-page cc-page-index cc-indexpage j-m-gallery-styles j-m-video-styles j-m-hr-styles j-m-header-styles j-m-text-styles j-m-emotionheader-styles j-m-htmlCode-styles j-m-rss-styles j-m-form-styles-disabled j-m-table-styles j-m-textWithImage-styles j-m-downloadDocument-styles j-m-imageSubtitle-styles j-m-flickr-styles j-m-googlemaps-styles j-m-blogSelection-styles-disabled j-m-comment-styles-disabled j-m-jimdo-styles j-m-profile-styles j-m-guestbook-styles j-m-promotion-styles j-m-twitter-styles j-m-hgrid-styles j-m-shoppingcart-styles j-m-catalog-styles j-m-product-styles-disabled j-m-facebook-styles j-m-sharebuttons-styles j-m-formnew-styles-disabled j-m-callToAction-styles j-m-turbo-styles j-m-spacing-styles j-m-googleplus-styles j-m-dummy-styles j-m-search-styles j-m-booking-styles j-footer-styles cc-pagemode-default cc-content-parent
+page-2213043994
+cc-inner
+cc-content-parent
+checkbox
+jtpl-navigation__checkbox
+jtpl-navigation__checkbox
+jtpl-main cc-content-parent
+jtpl-background-area
+fullscreen
+jtpl-navigation navigation-colors navigation-alignment
+jtpl-navigation__checkbox
+jtpl-navigation__label
+jtpl-navigation__borders navigation-colors__menu-icon
+jtpl-navigation__inner
+true
+navigation
+j-nav-variant-nested
+cc-nav-level-0 j-nav-level-0
+cc-nav-view-2213043994
+jmd-nav__list-item-0 cc-nav-current j-nav-current jmd-nav__item--current
+/
+Home
+cc-nav-current j-nav-current jmd-nav__link--current
+cc-nav-view-2213046094
+jmd-nav__list-item-0
+/blog/
+Blog
+cc-nav-view-2213044094
+jmd-nav__list-item-0
+/random-notes/
+Random Notes
+cc-nav-view-2213044194
+jmd-nav__list-item-0
+/contact/
+Contact
+jtpl-header
+stripe
+
+jtpl-header__inner
+jtpl-title navigation-alignment
+cc-website-title
+cc-single-module-element
+cc-m-12266535594
+j-module n j-header
+https://scottowen.jimdofree.com/
+cc-within-single-module-element j-website-title-content
+cc-m-header-12266535594
+jtpl-logo
+cc-website-logo
+cc-single-module-element
+cc-m-12266544294
+j-module n j-imageSubtitle
+cc-m-image-container
+cc-imagewrapper cc-m-image-align-3
+https://scottowen.jimdofree.com/
+_self
+https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=518x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg 518w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg 960w, https://image.jimcdn.com/app/cms/image/transf/dimension=1036x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg 1036w
+(min-width: 518px) 518px, 100vw
+cc-m-imagesubtitle-image-12266544294
+https://image.jimcdn.com/app/cms/image/transf/dimension=518x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg
+
+
+5630
+3799
+https://image.jimcdn.com/app/cms/image/transf/dimension=518x10000:format=jpg/path/sbedf239d306f2c67/image/i6d79c8aae5553fef/version/1750175000/image.jpg
+8412547894
+cc-clear
+cc-m-reg-12266544294
+module_imageSubtitle
+data
+imageExists
+hyperlink
+
+hyperlink_target
+
+hyperlinkAsString
+
+pinterest
+0
+id
+widthEqualsContent
+0
+resizeWidth
+518
+resizeHeight
+id
+jtpl-section cc-content-parent
+jtpl-content content-options cc-content-parent
+jtpl-content__inner content-padding cc-content-parent
+jtpl-breadcrumb breadcrumb-options
+navigation
+j-nav-variant-breadcrumb
+true
+http://schema.org/BreadcrumbList
+true
+itemListElement
+http://schema.org/ListItem
+cc-nav-current j-nav-current
+/
+Home
+item
+cc-nav-current j-nav-current
+name
+position
+1
+content_area
+content
+content_start
+cc-matrix-3323376994
+cc-m-12266531794
+j-module n j-header 
+
+cc-m-header-12266531794
+s Text Writings</h1></div><div id=
+ class=
+cc-m-spacer
+height: 20px;
+cc-m-12266531994
+j-module n j-hgrid 
+cc-m-hgrid-column
+width: 31.99%;
+cc-matrix-3323377494
+cc-m-12266532194
+j-module n j-header 
+
+cc-m-header-12266532194
+cc-m-12266532294
+j-module n j-hr 
+cc-m-12266532394
+j-module n j-text 
+/2025/06/17/column-1-potus-47/
+COLUMN 1 POTUS 47
+cc-m-hgrid-separator
+cms-only
+cc-m-hgrid-column
+width: 31.99%;
+cc-matrix-3323377594
+cc-m-12266532594
+j-module n j-header 
+
+cc-m-header-12266532594
+cc-m-12266532694
+j-module n j-hr 
+cc-m-12266532794
+j-module n j-text 
+/2025/06/17/column-2-al-gov-race-2026/
+COLUMN 2 AL. GOV. RACE 2026
+cc-m-hgrid-separator
+cms-only
+cc-m-hgrid-column last
+width: 31.99%;
+cc-matrix-3323377694
+cc-m-12266532994
+j-module n j-header 
+
+cc-m-header-12266532994
+cc-m-12266533094
+j-module n j-hr 
+cc-m-12266533194
+j-module n j-text 
+s or later, and didn
+cc-m-hgrid-overlay
+cms-only
+cc-clear
+cc-m-12266533294
+j-module n j-spacing 
+cc-m-spacer
+height: 50px;
+cc-m-12266533394
+j-module n j-hgrid 
+cc-m-hgrid-column
+width: 44.7%;
+cc-matrix-3323377994
+cc-m-12267999394
+j-module n j-text 
+text-align: center;
+font-size: 24px;
+cc-m-12266544894
+j-module n j-text 
+cc-m-12267998394
+j-module n j-hr 
+cc-m-12267912794
+j-module n j-text 
+push
+cc-m-12267998194
+j-module n j-hr 
+cc-m-12267998494
+j-module n j-text 
+cc-m-12267999494
+j-module n j-hr 
+cc-m-12267999594
+j-module n j-text 
+cc-m-12268012294
+j-module n j-imageSubtitle 
+cc-imagewrapper cc-m-image-align-1 cc-m-width-maxed
+https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=459x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png 459w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=918x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png 918w
+(min-width: 459px) 459px, 100vw
+cc-m-imagesubtitle-image-12268012294
+https://image.jimcdn.com/app/cms/image/transf/dimension=459x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png
+
+
+1798
+930
+https://image.jimcdn.com/app/cms/image/transf/dimension=459x10000:format=png/path/sbedf239d306f2c67/image/i5fc3a2a8e84dd540/version/1750458947/image.png
+8413426894
+cc-clear
+cc-m-reg-12268012294
+module_imageSubtitle
+data
+imageExists
+hyperlink
+
+hyperlink_target
+
+hyperlinkAsString
+
+pinterest
+0
+id
+widthEqualsContent
+1
+resizeWidth
+459
+resizeHeight
+id
+cc-m-12268222594
+j-module n j-text 
+cc-m-hgrid-separator
+cms-only
+cc-m-hgrid-column last
+width: 53.3%;
+cc-matrix-3323378094
+cc-m-12266533594
+j-module n j-spacing 
+cc-m-spacer
+height: 30px;
+cc-m-12266533694
+j-module n j-header 
+
+cc-m-header-12266533694
+cc-m-12266533794
+j-module n j-text 
+t find the video, so just between us Alabamian
+cc-m-12266624694
+j-module n j-imageSubtitle 
+cc-imagewrapper cc-m-image-align-1
+https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=496x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png 496w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png 960w, https://image.jimcdn.com/app/cms/image/transf/dimension=992x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png 992w
+(min-width: 496px) 496px, 100vw
+cc-m-imagesubtitle-image-12266624694
+https://image.jimcdn.com/app/cms/image/transf/dimension=496x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png
+
+
+2050
+1352
+https://image.jimcdn.com/app/cms/image/transf/dimension=496x10000:format=png/path/sbedf239d306f2c67/image/if3aad3705e5d3b97/version/1750176675/image.png
+8412577794
+cc-clear
+cc-m-reg-12266624694
+module_imageSubtitle
+data
+imageExists
+hyperlink
+
+hyperlink_target
+
+hyperlinkAsString
+
+pinterest
+0
+id
+widthEqualsContent
+0
+resizeWidth
+496
+resizeHeight
+id
+cc-m-hgrid-overlay
+cms-only
+cc-clear
+cc-m-12266533894
+j-module n j-spacing 
+cc-m-spacer
+height: 50px;
+jtpl-sidebar sidebar-options
+jtpl-sidebar__inner
+sidebar
+cc-matrix-3323378194
+cc-m-12266535394
+j-module n j-sharebuttons 
+cc-sharebuttons-element cc-sharebuttons-size-64 cc-sharebuttons-style-black cc-sharebuttons-design-round cc-sharebuttons-align-center
+cc-sharebuttons-mail
+/cdn-cgi/l/email-protection#c5fab6b0a7afa0a6b1f8b6a6aab1b1aab2a0abe3a4a8b5fea7aaa1bcf8adb1b1b5b6ffeaeab6a6aab1b1aab2a0abebafaca8a1aaa3b7a0a0eba6aaa8ea
+Email
+
+cc-m-12266535494
+j-module n j-text 
+text-align: center;
+jtpl-footer footer-options
+jtpl-footer__inner
+contentfooter
+footer
+j-meta-links
+/about/
+//scottowen.jimdofree.com/j/privacy
+cookie-policy
+javascript:window.CookieControl.showCookieSettings();
+/sitemap/
+j-admin-links
+loggedout
+nofollow
+login
+/login
+loggedin
+nofollow
+logout
+_top
+https://cms.e.jimdo.com/app/cms/logout.php
+nofollow
+edit
+_top
+https://a.jimdo.com/app/auth/signin/jumpcms/?page=2213043994
+jimdo-free-footer-ad 
+jimdo-footer-branding pull-left
+ https://www.jimdo.com/?utm_source=cre-scottowen&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20webview
+nofollow
+pull-left
+fallback-ad-textlink
+ https://www.jimdo.com/?utm_source=cre-scottowen&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20webview
+jimdolink
+nofollow
+jtpl-cart
+cc-FloatingButtonBarContainer cc-FloatingButtonBarContainer-right hidden
+cc-FloatingButtonBarContainer-button-scroll
+javascript:void(0);
+Scroll to top
+false
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+common_scrolltotop
+loginbox
+hidden
+loginbox-header
+cc-close
+Close this element
+#
+c
+loginbox-content
+resendpw
+loginboxOuter
+loginbox-darklayer
+hidden
+web_login
+url
+https:\/\/scottowen.jimdofree.com\/
+pageId
+https://www.googletagmanager.com/ns.html?id=GTM-WDBL3P
+0
+0
+display:none;visibility:hidden
+cc-individual-cookie-settings
+cc-individual-cookie-settings
+display: none
+true
+web_individualCookieSettings
+categories
+type
+NECESSARY
+name
+Strictly necessary
+description
+Strictly necessary cookies guarantee functions without which this website would not function as intended. As a result these cookies cannot be deactivated. These cookies are used exclusively by this website and are therefore first party cookies. This means that all information stored in the cookies will be returned to this website.
+required
+cookies
+key
+cookielaw
+name
+cookielaw
+description
+Cookielaw\n\nThis cookie displays the Cookie Banner and saves the visitor
+,
+:true},{
+:
+,
+:
+,
+:
+,
+:true}]},{
+:
+,
+:
+,
+:
+,
+:false,
+:[{
+:
+,
+:
+,
+:
+,
+:false},{
+:
+,
+:
+,
+:
+,
+:false},{
+:
+,
+:
+,
+:
+s selections are associated with their account, such as when they click \
+ on a video. Please see the Google privacy policy for more information.
+required
+type
+PERFORMANCE
+name
+Performance
+description
+Performance cookies gather information on how a web page is used. We use them to better understand how our web pages are used in order to improve their appeal, content and functionality.
+required
+cookies
+type
+MARKETING
+name
+Marketing \/ Third Party
+description
+Marketing \/ Third Party Cookies originate from external advertising companies (among others) and are used to gather information about the websites visited by you, in order to e.g. create targeted advertising for you.
+required
+cookies
+key
+powr_marketing
+name
+powr_marketing
+description
+POWr.io Cookies \n \nThese cookies collect anonymous information for analysis purposes about how visitors use and interact with this website. \n \nProvider: \nPowr.io, POWr HQ, 340 Pine Street, San Francisco, California 94104, USA. \n \nCookie Names and Lifetime: \n__Secure-3PAPISID (domain: google.com, lifetime: 2 years), SAPISID (domain: google.com, lifetime: 2 years), APISID (domain: google.com, lifetime: 2 years), SSID (domain: google.com, lifetime: 2 years), __Secure-3PSID (domain: google.com, lifetime: 2 years), CC (domain: google.com, lifetime: 1 year), ANID (domain: google.com, lifetime: 10 years), OTZ (domain: google.com, lifetime: 1 month).\n \nCookie Policy: \nhttps:\/\/www.powr.io\/privacy \n \nPrivacy Policy: \nhttps:\/\/www.powr.io\/privacy
+required
+pagesWithoutCookieSettings
+\/about\/
+\/j\/privacy
+cookieSettingsHtmlUrl
+\/app\/module\/cookiesettings\/getcookiesettingshtml
